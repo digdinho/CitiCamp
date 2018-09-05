@@ -1,3 +1,24 @@
 Lsita de alunos que vieram para o CitiCamp 
 Emilly
 João Gabriel
+Douglas
+
+
+/*
+Comandos do git:
+git clone http:\\... //clona da nuvem para o diretório local
+git status //mostrar se ouve alguma modificação
+
+git add "nome do arquivo" //adiciona o arquivo dentro do repositório
+git add . //adiciona todos os arquivos no repositório
+
+git checkout -b 'Centros' //cria uma branches, para dividir o trabalho
+git branch -D Centros //Apaga a branch criada localmente
+git checkout 'nvoaBranch' //seleciona a branch no qual vc quer trabalhar
+git branch //mostra em qual branch vc esta
+
+git merge master //junta os arquivos por ordem cronologica
+
+git rebase
+
+*/
